@@ -1,0 +1,29 @@
+{
+  "admins": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "admin"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "fullName": "Гомер Симпсон",
+      "telephone": "8457684532",
+      "email": "simpson@mail.ru"
+    },
+    {
+      "id": 2,
+      "fullName": "Скрудж МакДак",
+      "telephone": "8977777777",
+      "email": "macdac@mail.ru"
+    },
+    {
+      "id": 3,
+      "fullName": "Дональд Трамп",
+      "telephone": "8777777776",
+      "email": "donald@gmail.com"
+    }
+  ]
+}
